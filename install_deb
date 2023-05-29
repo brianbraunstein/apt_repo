@@ -1,0 +1,7 @@
+#!/bin/bash
+set -euo pipefail
+
+debfile=${1:? usage: $0 deb_file}
+
+reprepro includedeb jammy $debfile
+

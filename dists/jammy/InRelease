@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: jammy
+Date: Mon, 29 May 2023 19:17:28 UTC
+Architectures: amd64
+Components: contrib
+MD5Sum:
+ 0abbcebfcdece57b5641620598f675c9 582 contrib/binary-amd64/Packages
+ 077c8e17c83eea40116da448675f7165 406 contrib/binary-amd64/Packages.gz
+ 21e46a380626854677b4f15e48077399 39 contrib/binary-amd64/Release
+SHA1:
+ 3843cebb6530e7a3753380045af33cb53acf476b 582 contrib/binary-amd64/Packages
+ 907d2c8f8b6fa55aacddb3f967998263ff89efbc 406 contrib/binary-amd64/Packages.gz
+ 540444e2ba50eed843abd0f7c98f2a03736190f3 39 contrib/binary-amd64/Release
+SHA256:
+ 5ec00da00fd39c2c8b04bee1e6e3d91cc192ed3fcf1d79ca812ab981af596a94 582 contrib/binary-amd64/Packages
+ 2647ab56562ef09bbf841c49264626a07b7cedfe3c69052a54a2e9de77d712a9 406 contrib/binary-amd64/Packages.gz
+ d3365c86c0c42a0175c5a919fa6e443e515f6b8267dbd175f6fc7f2d45338215 39 contrib/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEYxWNj3AwyJYMtTt9akCzI5bv+QkFAmR0+k4ACgkQakCzI5bv
++Qm7qQwA8V+dNBrPx+mLonUZOGI/rjqPJOAx8NWuq5whG2OXCz9VCnOEQ0Dwe9Wf
+i258h2g/GZUz6e4tcgUPR5xZXGjioJOf/5kPbYd6cq65T7HuFJa1/dEzD9eZO7dw
+GG7aIFJrbAImK1WNtpyIK/QQw0WNgtH0M3vb3xGKNUNaOBryIx/x0viuMqbzVc0P
+ojNVqhwukGLVyonl/Q/XUZ2SKLGGrqxINWsRMTz5Dq9xfADsy7XANSn6yKF1o7fP
+vXPQUMgV8HzStULUTcgMm/hlJYsNpOHXIy70NKN2y3mA9LqHMtCcXLRkKzjvOB9K
+txZmYTqUJoFwRH8QgJ7qB4f+TteYi4iyfrzKRm4NUV0GXZ4gGzJMBgQUxLrcSetM
+ghDq1ksfGQUGYqZCdh2ujXtixN0JX7pRs/aazArEo62c+9Ei8DCnrOcDt4I5mCY8
+cuNiMRB4TFEsSmx3gYIe68Ck7tm6FC+6u1cLgE5kmJjtIk5IS5Y2RY74AR3V5YFg
++cbbu2PU
+=CIEL
+-----END PGP SIGNATURE-----
