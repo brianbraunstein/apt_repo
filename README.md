@@ -4,9 +4,9 @@
 To use this repository, run the following:
 
 ```
-wget -O - http://www.example.com/repos/apt/conf/brianbraunstein_apt_repo.gpg.key |
+wget -O - http://brianbraunstein.github.io/apt_repo/brianbraunstein_apt_repo.gpg.key |
   sudo apt-key add -
-wget -O - http://github.com/brianbraunstein/apt_repo/sources.list.d.source |
-  sudo tee /etc/sources.list.d/brianbraunstein.sources
+wget -O - http://brianbraunstein.github.io/apt_repo/sources.list.d.sources |
+  sudo tee /etc/apt/sources.list.d/brianbraunstein.sources
 ```
 
