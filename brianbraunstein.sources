@@ -3,6 +3,7 @@ Types: deb
 URIs: https://brianbraunstein.github.io/apt_repo
 Suites: stable
 Components: main
+Architectures: amd64
 Signed-By:
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .

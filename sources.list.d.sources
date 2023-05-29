@@ -1,7 +1,8 @@
 Types: deb
 URIs: http://github.com/brianbraunstein/apt_repo
-Suites: jammy
-Components: text
+Suites: stable
+Components: main
+Architecture: amd64
 Signed-By:
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
