@@ -1,7 +1,10 @@
 #!/bin/bash
+#
+# https://wiki.debian.org/DebianRepository/SetupWithReprepro
+
 set -euo pipefail
 
 debfile=${1:? usage: $0 deb_file}
 
-reprepro includedeb jammy $debfile
+reprepro includedeb stable $debfile
 
