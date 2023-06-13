@@ -1,14 +1,14 @@
 Package: configo
-Version: 0.0.4
+Version: 0.0.5
 Maintainer: Brian Braunstein
 Architecture: arm
 Priority: optional
 Section: text
-Filename: pool/main/c/configo/configo_0.0.4_arm.deb
-Size: 3939638
-SHA256: a46307720d79fb4f33ad34fa053dfe7d3ce7d6053507622c534eb88eefa2dedd
-SHA1: 730ae49ab8bbe86244029f0256ece2a9b183f161
-MD5sum: 184dc1e1afd444493d73c76ddf5951ac
+Filename: pool/main/c/configo/configo_0.0.5_arm.deb
+Size: 3944976
+SHA256: 1d58ac326a8caf4759e9f720623ebeac70420980a89b4c9508855abe4b8a2475
+SHA1: d98b4c63e631ec1f88a0c5bb6ffdec71bed3821c
+MD5sum: 62c1c3bb3ee9821a89eb33255b68ce7a
 Description: Text templating tool using golang text/template.
   Inspired by Helm and its limitations.
   - Allows importing additional template files (and general golang text/template
